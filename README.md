@@ -8,3 +8,6 @@ In this project we are using Python language to build GUI:
 In this project, we are going to build a  simple application by which user can set symtoms of disease and click on predict button. After that we have got disease which have common symptoms and user have to select that disease and we get ou required result that is precautions and cures of that disease.
 
 Thank you for giving us such an interesting and challengable project.
+
+
+**To run this program please go to main.py run along with all files together at same place(same folder)**
